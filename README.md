@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norucova&show_icons=true&theme=radical)](https://github.com/Norucova/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norucova&show_icons=true&theme=dark)](https://github.com/Norucova/github-readme-stats)
 
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
